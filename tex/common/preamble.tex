@@ -1,0 +1,34 @@
+\ifdefined\SpanishEdition
+  \usepackage[spanish,es-noshorthands]{babel}
+\else
+  \usepackage[english]{babel}
+\fi
+\usepackage{fontspec}
+\setmainfont{TeX Gyre Pagella}
+\setsansfont{TeX Gyre Heros}
+\usepackage{amsmath,amssymb}
+\usepackage{unicode-math}
+\setmathfont{TeX Gyre Pagella Math}
+\usepackage[paperwidth=170mm,paperheight=240mm,inner=23mm,outer=21mm,top=22mm,bottom=24mm]{geometry}
+\usepackage{microtype}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{booktabs,longtable,array}
+\usepackage{enumitem}
+\usepackage{caption}
+\captionsetup{font=small,labelfont=bf,labelsep=period}
+\usepackage{makeidx}
+\makeindex
+% Long page lists in both editions need flexible index line breaks.
+\AddToHook{env/theindex/begin}{\raggedright}
+\usepackage[hidelinks,unicode]{hyperref}
+\usepackage{bookmark}
+\hypersetup{pdftitle={The Irresistible Attraction Of Gravity},pdfauthor={Luciano Rezzolla}}
+\ifdefined\SpanishEdition
+  \hypersetup{pdftitle={La irresistible atracción de la gravedad}}
+\fi
+\setcounter{secnumdepth}{0}
+\setcounter{tocdepth}{1}
+\setlength{\emergencystretch}{1.5em}
+\providecommand{\tightlist}{\setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\raggedbottom

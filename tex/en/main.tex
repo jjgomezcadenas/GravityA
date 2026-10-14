@@ -1,0 +1,35 @@
+% English extraction checkpoint: front matter, introduction, chapters 1–2.
+% Build from tex/ using make en. Extend this driver as chapters are reviewed.
+\documentclass[11pt,openany]{book}
+\input{common/preamble}
+\begin{document}
+\frontmatter
+\input{en/frontmatter}
+\tableofcontents
+\include{en/introduction}
+\mainmatter
+\include{en/ch01}
+\include{en/ch02}
+\include{en/ch03}
+\include{en/ch04}
+\include{en/ch05}
+\include{en/ch06}
+\include{en/ch07}
+\include{en/ch08}
+\backmatter
+\include{en/conclusion}
+\include{en/acknowledgements}
+\chapter{Notes}
+\input{en/notes/ch01}
+\input{en/notes/ch02}
+\input{en/notes/ch03}
+\input{en/notes/ch04}
+\input{en/notes/ch05}
+\input{en/notes/ch06}
+\input{en/notes/ch07}
+\input{en/notes/ch08}
+\cleardoublepage
+\phantomsection
+\addcontentsline{toc}{chapter}{Index}
+\printindex
+\end{document}

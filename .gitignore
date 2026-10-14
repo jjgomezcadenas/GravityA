@@ -1,0 +1,5 @@
+.DS_Store
+tex/build/
+__pycache__/
+*.pyc
+/GA/english_version.zip

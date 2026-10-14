@@ -1,0 +1,7 @@
+# Capítulo 7 — resumen editorial
+
+- Se reutilizó la prosa válida de Anahi y se completaron las omisiones contra el DOCX: texto, ecuación 7.1, expresiones matemáticas, quince pies, once notas y 253 entradas del índice.
+- Se siguió la edición original, centrada en M87*: se descartaron las adiciones del borrador sobre la imagen de Sagitario A* de 2022 y se conservó la previsión de su publicación. No se actualizaron ni revisaron las afirmaciones del autor.
+- Se corrigieron errores del borrador: radio frente a distancia de 3 km; cifras de resolución; electrones ligeros frente a carga pequeña; carga positiva del positrón; espín 0,6 y comparación de masas de cien millones. Se eliminaron duplicaciones, comentarios y pasajes de transcripción ininteligibles.
+- En la analogía del estadio se habla inicialmente de una «persona amiga», para conservar la revelación posterior sin introducir una contradicción de género. Se restablecieron las frases y referencias ausentes.
+- Se mantuvieron las figuras y sus etiquetas inglesas. Para 7.4, 7.5, 7.7, 7.8, 7.11 y 7.14 se usó el arte incrustado en el DOCX: para asegurar la fidelidad al original y evitar problemas de rótulos al exportar los SVG. Las anotaciones de los PDF 7.3, 7.6 y 7.15 se aplanaron para que LaTeX conserve sus rótulos. El rótulo externo «non-rotating» de 7.3 se tradujo aparte. Se reparó la conversión de la raíz √27 y se recuperó una entrada del índice del título de sección, sin cambiar el contenido inglés.

@@ -1,0 +1,142 @@
+english	spanish	context	status
+gravity	gravedad	general	pilot
+gravitational force	fuerza gravitatoria	Newton	pilot
+gravitational field	campo gravitatorio	general	pilot
+spacetime	espaciotiempo	relativity	pilot
+curvature	curvatura	relativity	pilot
+general relativity	relatividad general	Einstein	pilot
+instinctive knowledge	conocimiento instintivo	chapter 1	pilot
+rational knowledge	conocimiento racional	chapter 1	pilot
+imaginative knowledge	conocimiento imaginativo	chapter 1	pilot
+Moro reflex	reflejo de Moro	chapter 1	pilot
+free fall	caída libre	general	pilot
+electromagnetic interaction	interacción electromagnética	chapter 1	pilot
+strong interaction	interacción fuerte	chapter 1	pilot
+strong nuclear force	fuerza nuclear fuerte	chapter 1	pilot
+weak interaction	interacción débil	chapter 1	pilot
+electroweak interaction	interacción electrodébil	chapter 1	pilot
+quantum electrodynamics	electrodinámica cuántica	chapter 1	pilot
+quantum chromodynamics	cromodinámica cuántica	chapter 1	pilot
+neutron star	estrella de neutrones	general	pilot
+black hole	agujero negro	general	pilot
+vacuum energy	energía del vacío	chapter 1	pilot
+gravitational waves	ondas gravitatorias	general	pilot
+reference frame	sistema de referencia	chapter 2	pilot
+principle of inertia	principio de inercia	chapter 2	pilot
+equivalence principle	principio de equivalencia	chapter 2	pilot
+inclined plane	plano inclinado	chapter 2	pilot
+momentum	momento	chapter 2; mass times velocity	pilot
+perihelion precession	precesión del perihelio	chapter 2	pilot
+arcsecond	segundo de arco; arcosegundo	chapter 2	pilot
+Occam's razor	navaja de Occam	chapter 2	pilot
+billion	mil millones	English short scale; never billón	pilot
+event	suceso	element of spacetime; chapter 3	chapter03
+two-sphere	esfera bidimensional	spherical surface, not the enclosed volume	chapter03
+parallel transport	transporte paralelo	curvature	chapter03
+curvature radius	radio de curvatura	geometry	chapter03
+osculating surface	superficie osculante	geometry	chapter03
+non-zero curvature	curvatura no nula	never curvatura nula	chapter03
+Riemann tensor	tensor de Riemann	curvature tensor	chapter03
+Einstein tensor	tensor de Einstein	general relativity	chapter03
+energy-momentum tensor	tensor de energía-momento	general relativity	chapter03
+metric tensor	tensor métrico	general relativity	chapter03
+covariant	covariante	equations	chapter03
+highly nonlinear	fuertemente no lineal	equations	chapter03
+mass-energy	masa-energía	conceptual equations	chapter03
+matter-energy	materia-energía	prose	chapter03
+rest mass	masa en reposo	particles	chapter03
+geodesic	geodésica	geometry	chapter03
+great circle	círculo máximo	spherical geometry	chapter03
+gravitational lensing	efecto de lente gravitatoria	astronomy	chapter03
+dark matter	materia oscura	astronomy	chapter03
+dark energy	energía oscura	cosmology	chapter03
+bowling ball	bola de bolos	elastic sheet analogy	chapter03
+compactness	compacidad	mass-to-radius ratio; chapter 4	chapter04
+time dilation	dilatación del tiempo	relativity; chapter 4	chapter04
+time of flight	tiempo de vuelo	GPS; chapter 4	chapter04
+atomic clock	reloj atómico	GPS; chapter 4	chapter04
+thought experiment	experimento mental	Gedankenexperiment; chapter 4	chapter04
+parsec	pársec	astronomical distance; plural pársecs	chapter04
+solar mass	masa solar	astronomical mass unit	chapter04
+test particle	partícula de prueba	gravity; chapter 4	chapter04
+trillion	billón	English short scale; never trillón	chapter04
+throat	garganta	curved surface analogy; chapter 4	chapter04
+accretion disc	disco de acreción	matter transferred in a binary system	chapter05
+low-mass X-ray binary	binaria de rayos X de baja masa (LMXB)	astronomy	chapter05
+high-mass X-ray binary	binaria de rayos X de alta masa (HMXB)	astronomy	chapter05
+pulsar	púlsar	plural púlsares	chapter05
+magnetar	magnetar	plural magnetares	chapter05
+quasar	cuásar	plural cuásares	chapter05
+fast radio burst	ráfaga rápida de radio (FRB)	astronomy	chapter05
+degeneracy pressure	presión de degeneración	stellar collapse	chapter05
+proto-neutron star	protoestrella de neutrones	newly formed neutron star	chapter05
+flux-freezing	congelación del flujo	magnetic flux conservation	chapter05
+spin down	frenado	pulsar rotation	chapter05
+braking index	índice de frenado	pulsar timing	chapter05
+death line	línea de muerte	pulsar emission	chapter05
+equation of state	ecuación de estado	neutron star structure	chapter05
+soft/stiff equation of state	ecuación de estado blanda/rígida	neutron star structure	chapter05
+X-ray burst	estallido de rayos X	thermonuclear emission	chapter05
+tidal forces	fuerzas de marea	never fuerzas maremotrices	chapter05
+light-crossing time	tiempo de cruce de la luz	causal connection	chapter05
+billion billion	un trillón	English short scale = 10^18	chapter05
+event horizon	horizonte de sucesos	black holes	chapter06
+Schwarzschild radius	radio de Schwarzschild	black holes	chapter06
+coordinate singularity	singularidad de coordenadas	removable by a coordinate change	chapter06
+physical singularity	singularidad física	black holes	chapter06
+escape velocity	velocidad de escape	gravity	chapter06
+gravitationally bound	ligado gravitatoriamente	motion	chapter06
+gravitational red-shift	desplazamiento gravitatorio al rojo	light escaping a gravitational field	chapter06
+ultra-compact star	estrella ultracompacta	Buchdahl limit	chapter06
+spin	espín	intrinsic rotation	chapter06
+spin angular momentum	momento angular de espín	black holes	chapter06
+dimensionless spin	espín adimensional	black holes	chapter06
+no-hair theorem	teorema de ausencia de pelo	black holes	chapter06
+reducible/irreducible mass	masa reducible/irreducible	black-hole dynamics	chapter06
+Hawking radiation	radiación de Hawking	black holes	chapter06
+information-loss paradox	paradoja de la pérdida de información	black holes	chapter06
+unitarity	unitariedad	quantum evolution	chapter06
+black-hole mimicker	imitador de agujero negro	alternative compact objects	chapter06
+gravastar	gravastar	gravitational star; estrella gravitatoria	chapter06
+wormhole	agujero de gusano	spacetime	chapter06
+regular black hole	agujero negro regular	never agujero negro corriente	chapter06
+multi-wavelength astronomy	astronomía multibanda	observations at different wavelengths	chapter06
+multi-messenger astronomy	astronomía multimensajero	multiple observational channels	chapter06
+angular resolution	resolución angular	apparent angular scale in telescope images	chapter07
+microarcsecond	microsegundo de arco	angular unit	chapter07
+Very Long Baseline Interferometry	interferometría de muy larga base	VLBI; preserve acronym	chapter07
+baseline	línea de base	separation of telescopes	chapter07
+light ring	anillo de luz	unstable circular photon orbit	chapter07
+black-hole shadow	sombra del agujero negro	observed dark region	chapter07
+ergosphere	ergosfera	rotating black hole	chapter07
+static limit	límite estático	boundary of ergosphere	chapter07
+corotating/counter-rotating	en corrotación/en contrarrotación	motion relative to black-hole spin	chapter07
+Doppler boost	amplificación Doppler	relativistic radiation intensity	chapter07
+radiation transport	transporte de radiación	from emitting plasma to observer	chapter07
+relativistic magnetohydrodynamics	magnetohidrodinámica relativista	magnetised plasma dynamics	chapter07
+synthetic image	imagen sintética	theoretical image from simulations	chapter07
+image library	biblioteca de imágenes	comparison of models and observations	chapter07
+dilaton black hole	agujero negro dilatónico	alternative theory	chapter07
+boson star	estrella de bosones	exotic compact object	chapter07
+wave equation	ecuación de ondas	partial differential equation	chapter08
+D'Alembert operator	operador de d'Alembert / dalembertiano	box operator □	chapter08
+plus/cross polarisation	polarización «más»/«cruz»	linear gravitational-wave polarisations	chapter08
+beam splitter	divisor de haz	semireflecting mirror	chapter08
+dark fringe	franja oscura	destructive interference	chapter08
+signal-to-noise ratio	relación señal-ruido	detection	chapter08
+quadrupole formula	fórmula del cuadrupolo	gravitational-wave luminosity	chapter08
+rapid inspiralling	aproximación rápida en espiral	binary evolution	chapter08
+chirp signal	señal de gorjeo (chirp)	rising frequency and amplitude	chapter08
+ringdown	oscilación amortiguada (ringdown)	final black-hole relaxation	chapter08
+recoil velocity	velocidad de retroceso	kick	chapter08
+matched filtering	filtrado adaptado	signal extraction	chapter08
+post-Keplerian parameters	parámetros poskeplerianos	binary pulsar timing	chapter08
+tidal deformability	deformabilidad de marea	compact-object response	chapter08
+Love number	número de Love	surname, never número del amor	chapter08
+hypermassive neutron star	estrella de neutrones hipermasiva	HMNS	chapter08
+post-merger	posfusión	phase after coalescence	chapter08
+accretion torus	toro de acreción	geometrically thick disc	chapter08
+magnetorotational instability	inestabilidad magnetorrotacional	accretion	chapter08
+gamma-ray burst	brote de rayos gamma	retain GRB acronym and event names	chapter08
+afterglow	resplandor residual (afterglow)	decaying emission after a burst	chapter08
+kilonova	kilonova	blue/red: azul/roja	chapter08
